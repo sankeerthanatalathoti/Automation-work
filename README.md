@@ -1,22 +1,20 @@
-# Automation-work
-Complete-ETL-Automation work
 🌟 THE AUTOMATION PIPELINE — SHORT, CLEAR, JOB DESCRIPTION STYLE
 
 Below is exactly how a Data Engineering / BI job pipeline is usually described in companies.
 
 This answers:
 
-/n ✔ What steps come first
-/n ✔ Where automation comes in
-/n ✔ What needs scheduling
-/n ✔ What connects to what
+✔ What steps come first
+✔ Where automation comes in
+✔ What needs scheduling
+✔ What connects to what
 
 This is the simplest and most accurate breakdown.
 
 ⭐ PHASE 1 — SOURCE DATA HANDLING
 1. Get new raw data (CSV / API / Excel / Files / Database)
 
-This is the input.
+This is your input.
 
 2. Automatically load the new data into Python
 
