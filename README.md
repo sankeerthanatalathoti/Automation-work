@@ -6,17 +6,17 @@ Below is exactly how a Data Engineering / BI job pipeline is usually described i
 
 This answers:
 
-✔ What steps come first
-✔ Where automation comes in
-✔ What needs scheduling
-✔ What connects to what
+/n ✔ What steps come first
+/n ✔ Where automation comes in
+/n ✔ What needs scheduling
+/n ✔ What connects to what
 
 This is the simplest and most accurate breakdown.
 
 ⭐ PHASE 1 — SOURCE DATA HANDLING
 1. Get new raw data (CSV / API / Excel / Files / Database)
 
-This is your input.
+This is the input.
 
 2. Automatically load the new data into Python
 
